@@ -15,7 +15,7 @@ import retrofit2.Response
 import java.lang.NullPointerException
 
 
-const val BASE_URL = "https://taskie-rw.herokuapp.com"
+const val BASE_URL = ""
 
 class RemoteApi(private val apiService: RemoteApiService) {
 
